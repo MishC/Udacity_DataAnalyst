@@ -21,5 +21,5 @@ What factors affect a loan’s outcome status?
 What affects the borrower’s APR or interest rate?
 Are there differences between loans depending on how large the original loan amount was?
 
-I did explanatary visualisation and converted slides into a slidedeck.
+I did exploratory and explanatory visualisations and converted slides into a slidedeck.
 
