@@ -6,7 +6,7 @@ The dataset from the Prosper attributes of 113,937 available dated in 9.11.2005 
 
 ## Summary of Findings
 
-I have find that number of borrowers via Prosper have increased from 2005 to 2014.In 2005 were interested more than 5000 borrowers while in 2013, there is more than 35000 borrowers via Prosper. This growing tendency is characterized for the whole period, except the years 2009 and 2010.
+I have find that number of borrowers via Prosper have increased from 2005 to 2014. In 2005 were interested more than 5000 borrowers while in 2013, there is more than 35000 borrowers via Prosper. This growing tendency is characterized for the whole period, except the years 2009 and 2010.
 
 In my analysis I was searching the ansers for these questions:
 
