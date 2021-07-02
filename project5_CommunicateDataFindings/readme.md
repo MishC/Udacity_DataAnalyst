@@ -26,7 +26,7 @@ Furthermore, Borrower's APR is influenced by the loan original amount and availa
 
 ### Are there differences between loans depending on how large the original loan amount was?
 
-Highest mean loan original amounts have the borrowers with the loan status Current and with highest ratings (AA, A, B)
+The highest mean loan original amounts have the borrowers with the loan status Current and with highest ratings (AA, A, B)
 I have studied also completed loans, those who are terminated. Longest period loans have those who are "Defaulted" and the shortest and the shortest period loans have borrowers with the loan status "Completed" and with the highest ratings (AA, A, B).
 The most of borrowers have salaries in range $0-50000 and most common loan original amount is less than $5000.
 
