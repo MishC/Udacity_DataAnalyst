@@ -32,7 +32,6 @@ The most of borrowers have salaries in range $0-50000 and most common loan origi
 
 ## Key Insights for Presentation
 
-In the presentation, I just focused on the presenting of the results of this data analysis for Prosper.
-I started with the information about Prosper and dataset.Then I ask questions which should be answered by this analysis.
-Introductory slide represents the number of borrowers by years in Prosper. Then I go to the exploratory analysis, where I am showing the key variables distributions. In explanatory analysis, I present the most important visualisations, following with main findings in points. In the end I present sources for this project. 
-For this presentation I used output-toggle template, so I could hide the code for generating the visualisations. The code is revealed by clicking on the plot.
+There are 2 presentation exporatorationa and explanation.
+I generated them by this command:
+jupyter nbconvert Your-Slide-Deck-Name.ipynb --to slides --post serve --template output-toggle
