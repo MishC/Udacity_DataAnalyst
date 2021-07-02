@@ -35,4 +35,5 @@ The most of borrowers have salaries in range $0-50000 and most common loan origi
 There are 2 presentations called  exploratoration.html and explanation.html
 I generated them by this command:
 
-jupyter nbconvert Your-Slide-Deck-Name.ipynb --to slides --post serve --template output-toggle
+jupyter nbconvert explanation.ipynb --to slides --post serve --template output-toggle
+jupyter nbconvert exploration.ipynb --to slides --reveal-prefix reveal.js --post serve
