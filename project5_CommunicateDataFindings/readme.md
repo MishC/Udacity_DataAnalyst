@@ -26,13 +26,13 @@ Furthermore, Borrower's APR is influenced by the loan original amount and availa
 
 ### Are there differences between loans depending on how large the original loan amount was?
 
-Highest mean loan original amounts have the borrowers with the loan status Current and with highest ratings (AA, A, B)
+The highest mean loan original amounts have the borrowers with the loan status Current and with highest ratings (AA, A, B)
 I have studied also completed loans, those who are terminated. Longest period loans have those who are "Defaulted" and the shortest and the shortest period loans have borrowers with the loan status "Completed" and with the highest ratings (AA, A, B).
 The most of borrowers have salaries in range $0-50000 and most common loan original amount is less than $5000.
 
 ## Key Insights for Presentation
 
-In the presentation, I just focused on the presenting of the results of this data analysis for Prosper.
-I started with the information about Prosper and dataset.Then I ask questions which should be answered by this analysis.
-Introductory slide represents the number of borrowers by years in Prosper. Then I go to the exploratory analysis, where I am showing the key variables distributions. In explanatory analysis, I present the most important visualisations, following with main findings in points. In the end I present sources for this project. 
-For this presentation I used output-toggle template, so I could hide the code for generating the visualisations. The code is revealed by clicking on the plot.
+There are 2 presentations called  exploratoration.html and explanation.html
+I generated them by this command:
+
+jupyter nbconvert Your-Slide-Deck-Name.ipynb --to slides --post serve --template output-toggle
