@@ -36,4 +36,5 @@ There are 2 presentations called  exploratoration.html and explanation.html
 I generated them by this command:
 
 jupyter nbconvert explanation.ipynb --to slides --post serve --template output-toggle
+
 jupyter nbconvert exploration.ipynb --to slides --reveal-prefix reveal.js --post serve
