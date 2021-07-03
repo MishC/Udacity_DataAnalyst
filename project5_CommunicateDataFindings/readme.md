@@ -13,9 +13,9 @@ In my analysis I was searching the ansers for these questions:
 ### What factors affect a loan’s outcome status?
 
 I studied how is loan status affected by the current amount delinquent, loan original amount, stated monthly income.
-I have found that those, who have among the highest amount delinquent are "Defaulted". Highest loan original amount belongs to loan status "Current" followed by "charged-off".
+I have found that those, who have the highest amount delinquent are "Defaulted". Highest loan original amount belongs to loan status "Current" followed by "Charged-off".
 Borrowers with the highest income belong to the status "Current" and with the lowest income to "Defaulted". 
-Furthermore I have found that from those, who are "charged-off", have 30.3% a public record in the last 10 years. 
+Furthermo,re I have found that from those, who are "charged-off", have 30.3% a public record in the last 10 years. 
 
 ### What affects the borrower’s APR or interest rate?
 
@@ -26,8 +26,8 @@ Furthermore, Borrower's APR is influenced by the loan original amount and availa
 
 ### Are there differences between loans depending on how large the original loan amount was?
 
-The highest mean loan original amounts have the borrowers with the loan status Current and with highest ratings (AA, A, B)
-I have studied also completed loans, those who are terminated. Longest period loans have those who are "Defaulted" and the shortest and the shortest period loans have borrowers with the loan status "Completed" and with the highest ratings (AA, A, B).
+The highest mean loan original amounts have the borrowers with the loan status Current and with the highest ratings (AA, A, B)
+I have studied completed loans, those which are terminated. Longest period loans have those who are "Defaulted" and the shortest period loans have borrowers with the loan status "Completed" and with the highest ratings (AA, A, B).
 The most of borrowers have salaries in range $0-50000 and most common loan original amount is less than $5000.
 
 ## Key Insights for Presentation
