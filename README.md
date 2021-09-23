@@ -9,13 +9,13 @@ In this project I compare the temperature trend in Oslo with the global temperat
 In this project I study why in some countries in the world people own more 4-wheel vehicles than in others.
 
 *Project 3* - Analyze_A_B Test Analysis
-For this project, I have worked to understand the results of an A/B test run by an e-commerce website. My goal was to work through this to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+For this project, I tested a hypothese about the company website, when the null hypothese is that the conversion rate for the old webpage is the same or/and smaller than for a new webpage. My goal was to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision. I used random sampling, Z-test and logistic regression to evaluate the hypothesis's significance.
 
 *Project 4* - Data Wrangling Project
 Data Wrangling is about the gathering, accessing, cleaning and analyzing the data. We have analyzed tweets on the WeRateDogs twitter account from 2015-11-15 up to 2017-08-01. With the given and downloaded data, I analyzed favorite and retweet counts based on the ratings. I assigned to these ratings also the most frequent breed, and I determined the most common breeds and also the tweet with the highest favorite and retweet counts based on the whole dataset. Dataset contains one plot, 2 tables and additional report files (pdf).
 
 *Project 5* - Communicate your data findings
-In this project I chose the data about loans (Nov 2005- Mar 2014) in the Prosper company. I was answering the main questions: 
+In this project I chose the data about loans (Nov 2005- Mar 2014) in the Prosper company. Borrowers are private persons. I was answering the main questions: 
 
 What factors affect a loan’s outcome status? 
 What affects the borrower’s APR or interest rate?
