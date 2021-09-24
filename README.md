@@ -3,7 +3,7 @@
 These are projects done for the Udacity Data Analyst Nanodegree
 
 *Project 1* - Global Weather Trends
-In this project I compare the temperature trend in Oslo with the global temperature trend throughout the years 1750-2013. I used MS Excel for plotting and editing text.
+In this project I compare the temperature trend in Oslo with the global temperature trend throughout the years 1750-2013. I used MS Excel for plotting and MS Word for editing text.
 
 *Project 2* - Economic and Population Indicators for Number of Cars Owned by Citizens
 In this project I study why in some countries in the world people own more 4-wheel vehicles than in others. I used Python data science libraries in the project. 
